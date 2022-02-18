@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[FCC](freecodecamp.org/DonBaron)
+[FCC](https://freecodecamp.org/DonBaron)
 
-[DataCamp](datacamp.com/profile/bharindrakamanditya)
+[DataCamp](https://datacamp.com/profile/bharindrakamanditya)
 
-[Repl](replit.com/@BharindraKamand)
+[Repl](https://replit.com/@BharindraKamand)
 
 <!--
 **barondra/barondra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
