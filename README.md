@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-[FCC](https://freecodecamp.org/DonBaron)
+## </> Bootcamp Achievements
 
-[DataCamp](https://datacamp.com/profile/bharindrakamanditya)
+1. [FCC](https://freecodecamp.org/DonBaron)
+2. [DataCamp](https://datacamp.com/profile/bharindrakamanditya)
 
-[Repl](https://replit.com/@BharindraKamand)
+## </> Playground
+
+1. [Repl](https://replit.com/@BharindraKamand)
 
 <!--
 **barondra/barondra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
