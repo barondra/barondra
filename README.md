@@ -2,8 +2,8 @@
 
 ## </> Bootcamp Completions
 
-1. [FCC](https://freecodecamp.org/DonBaron) {'certifications': 2}
-2. [DC](https://datacamp.com/profile/bharindrakamanditya) {'certifications': 0, 'skill_tracks': 0, 'career_tracks': 0, 'courses': 2, 'projects': 0}
+1. [freeCodeCamp](https://freecodecamp.org/DonBaron) {'certifications': 2}
+2. [DataCamp](https://datacamp.com/profile/bharindrakamanditya) {'certifications': 0, 'skill_tracks': 0, 'career_tracks': 0, 'courses': 2, 'projects': 0}
 
 ## </> Playground
 
