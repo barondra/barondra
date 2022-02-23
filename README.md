@@ -1,4 +1,4 @@
-🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language: ***Data Analyst** with SQL Server* carreer track 
+🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language: ***Data Analyst** with SQL Server* carreer track.
 
 ## </> Bootcamp Completions
 
