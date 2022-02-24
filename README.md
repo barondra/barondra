@@ -1,4 +1,8 @@
-🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language (SQL): ***Data Analyst** with SQL Server* carreer track.
+🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language (SQL): ***Data Analyst** with SQL Server* carreer track
+
+📫 You can reach my by sending an email to bharindra.kamanditya@gmail.com
+
+⚡ Fun fact: I always read my inbox
 
 ## </> Bootcamp Completions
 
@@ -19,6 +23,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+
+- 
 -->
