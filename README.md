@@ -13,11 +13,10 @@
 
 1. [Repl](https://replit.com/@BharindraKamand)
 
-## </> Other learning platforms
-
-1. [~~Codecademy~~](https://www.codecademy.com/profiles/DonBaron) inactive
-2. [~~KhanAcademy~~](http://www.khanacademy.org/profile/DonBaron) inactive
-3. [~~Amigoscode~~](https://amigoscode.com/) inactive
+Other learning platforms:
+[Codecademy](https://www.codecademy.com/profiles/DonBaron),
+[KhanAcademy](http://www.khanacademy.org/profile/DonBaron),
+[Amigoscode](https://amigoscode.com/)
 
 <!--
 **barondra/barondra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
