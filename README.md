@@ -8,12 +8,16 @@
 
 1. [freeCodeCamp](https://freecodecamp.org/DonBaron) {'certification': 2}
 2. [DataCamp](https://datacamp.com/profile/bharindrakamanditya) {'certification': 0, 'skill_track': 2, 'career_track': 0, 'course': 14, 'project': 3}
-3. [~~Codecademy~~](https://www.codecademy.com/profiles/DonBaron)
-4. [~~KhanAcademy~~](http://www.khanacademy.org/profile/DonBaron)
 
 ## </> Playground
 
 1. [Repl](https://replit.com/@BharindraKamand)
+
+## </> Other learning platforms
+
+1. [~~Codecademy~~](https://www.codecademy.com/profiles/DonBaron) inactive
+2. [~~KhanAcademy~~](http://www.khanacademy.org/profile/DonBaron) inactive
+3. [~~Amigoscode~~](https://amigoscode.com/) inactive
 
 <!--
 **barondra/barondra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
