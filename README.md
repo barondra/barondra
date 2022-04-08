@@ -1,6 +1,6 @@
 🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language (SQL): ***Data Analyst** with SQL Server* carreer track
 
-📫 You can reach my by sending an email to bharindra.kamanditya@gmail.com
+📫 You can reach me by sending an email to bharindra.kamanditya@gmail.com
 
 ⚡ Fun fact: I always read my inbox
 
