@@ -11,7 +11,8 @@
 
 ## </> Playground
 
-1. [Repl](https://replit.com/@BharindraKamand)
+1. [HackerRank](https://www.hackerrank.com/bharindrakamand1)
+2. [Repl](https://replit.com/@BharindraKamand)
 
 Other learning platforms:
 [Codecademy](https://www.codecademy.com/profiles/DonBaron),
