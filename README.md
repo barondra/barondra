@@ -7,8 +7,8 @@
 
 ## </> Playground
 
-1. [HackerRank](https://www.hackerrank.com/bharindrakamand1)
-2. [Repl](https://replit.com/@BharindraKamand)
+1. [HackerRank](https://www.hackerrank.com/DonBaron)
+2. [Repl](https://replit.com/@DonBaron)
 
 Other learning platforms:
 [Codecademy](https://www.codecademy.com/profiles/DonBaron),
