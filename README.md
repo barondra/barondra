@@ -4,7 +4,7 @@
 
 1. [freeCodeCamp](https://freecodecamp.org/DonBaron) {'certifications': 2}
 2. [DataCamp](https://datacamp.com/profile/bharindrakamanditya) {'certifications': 0, 'skill_tracks': 2, 'career_tracks': 0, 'courses': 14, 'projects': 3}
-3. [HackerRank](https://www.hackerrank.com/DonBaron) {'certifications': 1}
+3. [HackerRank](https://www.hackerrank.com/DonBaron) {'certifications': 2}
 
 ## </> Learning Playground
 
