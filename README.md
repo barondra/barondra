@@ -1,10 +1,10 @@
 🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language (SQL): ***Data Analyst** with SQL Server* carreer track
 
-## </> Bootcamp Completions
+## </> My Certifications
 
-1. [freeCodeCamp](https://freecodecamp.org/DonBaron) {'certifications': 2} [**.**](https://www.freecodecamp.org/certification/DonBaron/scientific-computing-with-python-v7) [**.**](https://www.freecodecamp.org/certification/DonBaron/data-analysis-with-python-v7)
-2. [DataCamp](https://datacamp.com/profile/bharindrakamanditya) {'certifications': 0, 'skill_tracks': 2, 'career_tracks': 0, 'courses': 14, 'projects': 3}
-3. [HackerRank](https://www.hackerrank.com/DonBaron) {'certifications': 2} [**.**](https://www.hackerrank.com/certificates/e750c72377f5) [**.**](https://www.hackerrank.com/certificates/43e99a9f4991)
+1. [freeCodeCamp](https://freecodecamp.org/DonBaron) {'Total': 2} [**.**](https://www.freecodecamp.org/certification/DonBaron/scientific-computing-with-python-v7) [**.**](https://www.freecodecamp.org/certification/DonBaron/data-analysis-with-python-v7)
+2. [DataCamp](https://datacamp.com/profile/bharindrakamanditya) {'Total': 0}
+3. [HackerRank](https://www.hackerrank.com/DonBaron) {'Total': 2} [**.**](https://www.hackerrank.com/certificates/e750c72377f5) [**.**](https://www.hackerrank.com/certificates/43e99a9f4991)
 
 ## </> Learning Playground
 
