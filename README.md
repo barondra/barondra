@@ -2,9 +2,9 @@
 
 ## </> My Certifications
 
-1. [freeCodeCamp](https://freecodecamp.org/DonBaron) {'Total': 2} \t: [**.**](https://www.freecodecamp.org/certification/DonBaron/scientific-computing-with-python-v7) [**.**](https://www.freecodecamp.org/certification/DonBaron/data-analysis-with-python-v7)
-2. [DataCamp](https://datacamp.com/profile/bharindrakamanditya) {'Total': 0} \t: 
-3. [HackerRank](https://www.hackerrank.com/DonBaron) {'Total': 2} \t: [**.**](https://www.hackerrank.com/certificates/e750c72377f5) [**.**](https://www.hackerrank.com/certificates/43e99a9f4991)
+1. [freeCodeCamp](https://freecodecamp.org/DonBaron) {'Total': 2} [**.**](https://www.freecodecamp.org/certification/DonBaron/scientific-computing-with-python-v7) [**.**](https://www.freecodecamp.org/certification/DonBaron/data-analysis-with-python-v7)
+2. [HackerRank](https://www.hackerrank.com/DonBaron) {'Total': 2} &emsp; [**.**](https://www.hackerrank.com/certificates/e750c72377f5) [**.**](https://www.hackerrank.com/certificates/43e99a9f4991)
+3. [DataCamp](https://datacamp.com/profile/bharindrakamanditya)
 
 ## </> Learning Playground
 
