@@ -1,4 +1,3 @@
-🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language (SQL): ***Data Analyst** with SQL Server* carreer track
 
 ## </> My Certifications
 
@@ -18,6 +17,8 @@
 4. [Amigoscode](https://amigoscode.com/)
 
 <!--
+🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language (SQL): ***Data Analyst** with SQL Server* carreer track
+
 **barondra/barondra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
