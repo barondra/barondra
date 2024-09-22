@@ -11,10 +11,11 @@
 
 ## </> Learning Playground
 
-1. [Repl](https://replit.com/@DonBaron)
-2. [Codecademy](https://www.codecademy.com/profiles/DonBaron)
-3. [KhanAcademy](http://www.khanacademy.org/profile/DonBaron)
-4. [Amigoscode](https://amigoscode.com/)
+1. [LeetCode](https://leetcode.com/u/barondra/)
+2. [Repl](https://replit.com/@DonBaron)
+3. [Codecademy](https://www.codecademy.com/profiles/DonBaron)
+4. [KhanAcademy](http://www.khanacademy.org/profile/DonBaron)
+5. [Amigoscode](https://amigoscode.com/)
 
 <!--
 🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language (SQL): ***Data Analyst** with SQL Server* carreer track
