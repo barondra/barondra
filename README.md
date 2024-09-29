@@ -1,13 +1,16 @@
 
-## </> My Certifications
+## </> Courses and Certificates
 
-- [**freeCodeCamp**](https://freecodecamp.org/DonBaron) {'Total': 2}
+- [**freeCodeCamp**](https://freecodecamp.org/DonBaron) {'Total': 2 Certs.}
   1. [*Scientific Computing with Python*](https://www.freecodecamp.org/certification/DonBaron/scientific-computing-with-python-v7)
   2. [*Data Analysis with Python*](https://www.freecodecamp.org/certification/DonBaron/data-analysis-with-python-v7)
-- [**HackerRank**](https://www.hackerrank.com/DonBaron) {'Total': 2}
+- [**HackerRank**](https://www.hackerrank.com/DonBaron) {'Total': 2 Certs.}
   1. [*SQL (Basic)*](https://www.hackerrank.com/certificates/e750c72377f5)
   2. [*SQL (Intermediate)*](https://www.hackerrank.com/certificates/43e99a9f4991)
-- [**DataCamp**](https://datacamp.com/profile/bharindrakamanditya)
+- [**DataCamp**](https://datacamp.com/profile/bharindrakamanditya) {'Total': 2 Tracks}
+  1. [*SQL Server Fundamentals*](https://www.datacamp.com/completed/statement-of-accomplishment/track/9308196b58a09f99a50c7b64c350aba71017dd08)
+  2. [*Understanding Data Topics*](https://www.datacamp.com/completed/statement-of-accomplishment/track/c7db6632556e4b7b6e3dc44d45ab91eea3750bbc)
+   
 
 ## </> Learning Playground
 
@@ -19,7 +22,7 @@
 6. [Amigoscode](https://amigoscode.com/)
 
 <!--
-🌱 I’m currently learning Data Science at [DataCamp](https://www.datacamp.com/). More specifically, Standard Query Language (SQL): ***Data Analyst** with SQL Server* carreer track
+🌱 Hi and welcome!
 
 **barondra/barondra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
